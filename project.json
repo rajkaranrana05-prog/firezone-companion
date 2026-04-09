@@ -1,0 +1,22 @@
+{
+  "overview": "A cinematic Free Fire-inspired game companion app with character rosters, weapon database, battle tips, epic background music, and stunning visual effects — built for mobile gamers.",
+  "features": [
+    "Cinematic home screen with animated particles and looping epic BGM",
+    "Full character roster with abilities, stats, and favorites",
+    "Complete weapon database with stat bars and tier badges",
+    "Battle tips and pro gamer strategies",
+    "Mobile-first bottom navigation",
+    "Fire/glow animations and goosebumps visual effects"
+  ],
+  "category": "games",
+  "tags": [
+    "free-fire",
+    "battle-royale",
+    "gaming",
+    "companion-app",
+    "characters",
+    "weapons",
+    "mobile"
+  ],
+  "last_updated": "2026-04-09T12:02:59.285Z"
+}

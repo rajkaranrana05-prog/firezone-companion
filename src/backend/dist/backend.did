@@ -1,0 +1,5 @@
+service : {
+  addFavorite: (characterId: text) -> ();
+  getFavorites: () -> (vec text) query;
+  removeFavorite: (characterId: text) -> ();
+}
